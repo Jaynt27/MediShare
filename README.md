@@ -108,20 +108,3 @@ Example: A user asks, “Can I donate expired medicine?” — the chatbot fetch
 
 - **Medicine Donation:**  
   Register as a donor or recipient. Post available medicines or list needs, and let our donation matching engine connect you with government hospitals, NGOs, or individuals for safe, verified medicine transactions.
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For collaboration, questions, or further information, please reach out:
-
-- **Shourya Singh** – shourya124sensei@gmail.com  
-- **Ansh Mahajan** – anshmahajan2006@gmail.com  
-- **Priyansh** – priyansh56701@gmail.com  
-- **Arman Singh** – [LinkedIn](https://www.linkedin.com/in/arman-singh-9bb83628a/)  
-
-Join us in redefining healthcare. With MediShare, every medical report is simplified, every medication verified, and every donation transparently managed. Let's build a healthier future—together.
- ```
